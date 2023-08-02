@@ -14,4 +14,4 @@ def binary_search(l, target):
         print("not found")
 
 
-binary_search([1, 3, 5, 7, 8], 1)
+print(binary_search([1, 3, 5, 7, 8], 1))
